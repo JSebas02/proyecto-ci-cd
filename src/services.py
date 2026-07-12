@@ -51,3 +51,4 @@ def clear_tasks():
 
     tasks.clear()
     next_id = 1
+    
